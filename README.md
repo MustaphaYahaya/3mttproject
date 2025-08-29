@@ -1,1 +1,2 @@
-This repository is for my 3MTT project, is use for the hackathon challenge
+Coursera course: HTML, CSS, and Javascript for Web Developers
+Module 2 Coding Assignment
